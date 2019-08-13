@@ -1,0 +1,4 @@
+---
+# Items that apply to ALL profiles:
+test:
+  message:Hello from config server global properties 
